@@ -1,0 +1,10 @@
+html{font-size: 1.1rem; font-family: Raleway;}
+
+h1,h2,h3,h4,h5,h6{font-family: Kaushan Script; text-align: center; color: #000249;}
+.container{width: 85%;}
+.parrafo{text-align: justify;font-size: 1.1rem;}
+.colorBase{background: #1DCED8;}
+.colorAlterno{background: #03002C;}
+.colorFoot{background: #0881A3;}
+.paginacion{background: #000249;}
+span{text-align: center; color: #F6490D;}
